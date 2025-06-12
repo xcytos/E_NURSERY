@@ -1,0 +1,1016 @@
+
+{
+    "categories": [
+      {
+        "id": "indoor-plants",
+        "name": "Indoor Plants",
+        "products": [
+          {
+            "id": "ip001",
+            "name": "Monstera Deliciosa",
+            "price": 399,
+            "description": "Large tropical plant with unique split leaves, perfect for indoor spaces.",
+            "image": "images/monstera.jpg",
+            "rating": 4.5,
+            "careLevel": "Easy",
+            "light": "Bright indirect light"
+          },
+          {
+            "id": "ip002",
+            "name": "Snake Plant",
+            "price": 299,
+            "description": "Hardy plant that purifies air and thrives in low light conditions.",
+            "image": "images/snake.jpg",
+            "rating": 4.7,
+            "careLevel": "Very Easy",
+            "light": "Low to bright light"
+          },
+          {
+            "id": "ip003",
+            "name": "Fiddle Leaf Fig",
+            "price": 899,
+            "description": "Trendy plant with large, violin-shaped leaves that makes a statement.",
+            "image": "images/FiddleLeafFig.jpg",
+            "rating": 4.3,
+            "careLevel": "Moderate",
+            "light": "Bright indirect light"
+          },
+          {
+            "id": "ip004",
+            "name": "ZZ Plant",
+            "price": 349,
+            "description": "Nearly indestructible plant with glossy green leaves that thrives on neglect.",
+            "image": "images/ZZ.jpg",
+            "rating": 4.8,
+            "careLevel": "Very Easy",
+            "light": "Low to bright light"
+          },
+          {
+            "id": "ip005",
+            "name": "Peace Lily",
+            "price": 449,
+            "description": "Beautiful flowering plant that also helps purify indoor air.",
+            "image": "images/peacelily.jpg",
+            "rating": 4.4,
+            "careLevel": "Easy",
+            "light": "Medium to low light"
+          },
+          {
+            "id": "ip006",
+            "name": "Pothos Golden",
+            "price": 249,
+            "description": "Trailing vine with heart-shaped leaves that's perfect for hanging baskets.",
+            "image": "images/pothos.jpg",
+            "rating": 4.6,
+            "careLevel": "Very Easy",
+            "light": "Low to bright light"
+          },
+          {
+            "id": "ip007",
+            "name": "Rubber Plant",
+            "price": 499,
+            "description": "Sturdy plant with large, dark green leaves that adds a tropical touch.",
+            "image": "images/rubber.jpg",
+            "rating": 4.2,
+            "careLevel": "Easy",
+            "light": "Bright indirect light"
+          },
+          {
+            "id": "ip008",
+            "name": "Chinese Money Plant",
+            "price": 379,
+            "description": "Unique round-leaved plant that's easy to care for and propagates easily.",
+            "image": "images/ChineseMoney.webp",
+            "rating": 4.5,
+            "careLevel": "Easy",
+            "light": "Bright indirect light"
+          },
+          {
+            "id": "ip009",
+            "name": "Spider Plant",
+            "price": 279,
+            "description": "Classic houseplant that produces baby plants on long stems.",
+            "image": "images/spiderplant.webp",
+            "rating": 4.7,
+            "careLevel": "Very Easy",
+            "light": "Bright indirect light"
+          },
+          {
+            "id": "ip010",
+            "name": "Aloe Vera",
+            "price": 329,
+            "description": "Succulent with medicinal properties that's great for sunny spots.",
+            "image": "images/aloe vera.jpg",
+            "rating": 4.6,
+            "careLevel": "Easy",
+            "light": "Bright light"
+          },
+          {
+            "id": "ip011",
+            "name": "Philodendron Brasil",
+            "price": 349,
+            "description": "Colorful trailing plant with heart-shaped leaves in green and yellow.",
+            "image": "images/philo.webp",
+            "rating": 4.4,
+            "careLevel": "Easy",
+            "light": "Medium to bright light"
+          },
+          {
+            "id": "ip012",
+            "name": "Bird's Nest Fern",
+            "price": 429,
+            "description": "Lush fern with ripple-edged fronds that add texture to any space.",
+            "image": "images/birds-nest-fern.jpg",
+            "rating": 4.3,
+            "careLevel": "Moderate",
+            "light": "Medium indirect light"
+          },
+          {
+            "id": "ip013",
+            "name": "Calathea Orbifolia",
+            "price": 599,
+            "description": "Striking plant with large, round leaves featuring silver stripes.",
+            "image": "images/calathea-orbifolia.jpg",
+            "rating": 4.1,
+            "careLevel": "Moderate",
+            "light": "Medium indirect light"
+          },
+          {
+            "id": "ip014",
+            "name": "String of Pearls",
+            "price": 379,
+            "description": "Unique succulent with trailing stems of bead-like leaves.",
+            "image": "images/Pearls.webp",
+            "rating": 4.5,
+            "careLevel": "Moderate",
+            "light": "Bright light"
+          },
+          {
+            "id": "ip015",
+            "name": "Parlor Palm",
+            "price": 499,
+            "description": "Classic palm that adds tropical elegance to any room.",
+            "image": "images/parlour.jpg",
+            "rating": 4.4,
+            "careLevel": "Easy",
+            "light": "Low to medium light"
+          },
+          {
+            "id": "ip016",
+            "name": "Peperomia Obtusifolia",
+            "price": 299,
+            "description": "Compact plant with thick, glossy leaves that's perfect for small spaces.",
+            "image": "images/pepe.jpg",
+            "rating": 4.3,
+            "careLevel": "Easy",
+            "light": "Medium light"
+          },
+          {
+            "id": "ip017",
+            "name": "Dracaena Marginata",
+            "price": 549,
+            "description": "Dramatic plant with slender stems and arching red-edged leaves.",
+            "image": "images/draca.jpg",
+            "rating": 4.2,
+            "careLevel": "Easy",
+            "light": "Medium to bright light"
+          },
+          {
+            "id": "ip018",
+            "name": "Hoya Heart",
+            "price": 349,
+            "description": "Charming succulent with thick heart-shaped leaves, also called Valentine Plant.",
+            "image": "images/hoya.jpg",
+            "rating": 4.6,
+            "careLevel": "Easy",
+            "light": "Bright indirect light"
+          },
+          {
+            "id": "ip019",
+            "name": "Cast Iron Plant",
+            "price": 499,
+            "description": "Nearly indestructible plant that thrives in low light and neglect.",
+            "image": "images/cast-iron-plant.webp",
+            "rating": 4.7,
+            "careLevel": "Very Easy",
+            "light": "Low light"
+          },
+          {
+            "id": "ip020",
+            "name": "Ponytail Palm",
+            "price": 599,
+            "description": "Unique succulent with a bulbous trunk and long, curly leaves.",
+            "image": "images/Ponytail Palm.jpg",
+            "rating": 4.5,
+            "careLevel": "Easy",
+            "light": "Bright light"
+          }
+        ]
+      },
+      {
+        "id": "outdoor-plants",
+        "name": "Outdoor Plants",
+        "products": [
+          {
+            "id": "op001",
+            "name": "Hibiscus",
+            "price": 349,
+            "description": "Tropical flowering shrub with large, colorful blooms.",
+            "image": "images/outdoor/hibiscus.jpg",
+            "rating": 4.4,
+            "careLevel": "Easy",
+            "light": "Full sun"
+          },
+          {
+            "id": "op002",
+            "name": "Bougainvillea",
+            "price": 499,
+            "description": "Vibrant flowering vine that adds color to any garden.",
+            "image": "images/outdoor/Bougainvillea.webp",
+            "rating": 4.5,
+            "careLevel": "Easy",
+            "light": "Full sun"
+          },
+          {
+            "id": "op003",
+            "name": "Jasmine",
+            "price": 399,
+            "description": "Fragrant flowering plant perfect for trellises and fences.",
+            "image": "images/outdoor/Jasmine.jpg",
+            "rating": 4.7,
+            "careLevel": "Moderate",
+            "light": "Full sun to partial shade"
+          },
+          {
+            "id": "op004",
+            "name": "Croton",
+            "price": 449,
+            "description": "Colorful foliage plant with vibrant red, orange and yellow leaves.",
+            "image": "images/outdoor/croton.jpg",
+            "rating": 4.3,
+            "careLevel": "Moderate",
+            "light": "Full sun"
+          },
+          {
+            "id": "op005",
+            "name": "Areca Palm",
+            "price": 799,
+            "description": "Tropical palm that creates a lush, feathery look outdoors.",
+            "image": "images/outdoor/Areca Palm.jpg",
+            "rating": 4.6,
+            "careLevel": "Easy",
+            "light": "Partial shade"
+          },
+          {
+            "id": "op006",
+            "name": "Money Plant (Outdoor)",
+            "price": 299,
+            "description": "Fast-growing vine with heart-shaped leaves, considered lucky.",
+            "image": "images/outdoor/Money Plant (Outdoor).avif",
+            "rating": 4.5,
+            "careLevel": "Very Easy",
+            "light": "Partial shade"
+          },
+          {
+            "id": "op007",
+            "name": "Marigold",
+            "price": 199,
+            "description": "Bright flowering plant that's easy to grow and repels pests.",
+            "image": "images/outdoor/Marigold.jpg",
+            "rating": 4.8,
+            "careLevel": "Very Easy",
+            "light": "Full sun"
+          },
+          {
+            "id": "op008",
+            "name": "Rose Plant",
+            "price": 499,
+            "description": "Classic flowering shrub available in many colors and varieties.",
+            "image": "images/outdoor/roseplant.jpg",
+            "rating": 4.4,
+            "careLevel": "Moderate",
+            "light": "Full sun"
+          },
+          {
+            "id": "op009",
+            "name": "Lemon Tree",
+            "price": 899,
+            "description": "Fruit-bearing tree that produces fragrant flowers and lemons.",
+            "image": "images/outdoor/images.jpg",
+            "rating": 4.6,
+            "careLevel": "Moderate",
+            "light": "Full sun"
+          },
+          {
+            "id": "op010",
+            "name": "Jade Plant",
+            "price": 349,
+            "description": "Succulent shrub with thick, oval leaves, considered lucky.",
+            "image": "images/outdoor/Jade Plant.jpg",
+            "rating": 4.5,
+            "careLevel": "Easy",
+            "light": "Full sun to partial shade"
+          },
+          {
+            "id": "op011",
+            "name": "Snake Plant (Outdoor)",
+            "price": 349,
+            "description": "Hardy plant that thrives outdoors in warm climates.",
+            "image": "images/outdoor/snake.jpg",
+            "rating": 4.7,
+            "careLevel": "Very Easy",
+            "light": "Partial shade"
+          },
+          {
+            "id": "op012",
+            "name": "Coleus",
+            "price": 249,
+            "description": "Colorful foliage plant available in many vibrant patterns.",
+            "image": "images/outdoor/coleus.jpg",
+            "rating": 4.3,
+            "careLevel": "Easy",
+            "light": "Partial shade"
+          },
+          {
+            "id": "op013",
+            "name": "Ixora",
+            "price": 399,
+            "description": "Tropical shrub with clusters of small, bright flowers.",
+            "image": "images/outdoor/Ixora.jpg",
+            "rating": 4.4,
+            "careLevel": "Moderate",
+            "light": "Full sun"
+          },
+          {
+            "id": "op014",
+            "name": "Plumeria",
+            "price": 699,
+            "description": "Fragrant tropical tree with beautiful flowers used in leis.",
+            "image": "images/outdoor/images.jpg",
+            "rating": 4.6,
+            "careLevel": "Moderate",
+            "light": "Full sun"
+          },
+          {
+            "id": "op015",
+            "name": "Basil",
+            "price": 179,
+            "description": "Popular culinary herb that's easy to grow and maintain.",
+            "image": "images/outdoor/hibiscus.jpg",
+            "rating": 4.7,
+            "careLevel": "Easy",
+            "light": "Full sun"
+          },
+          {
+            "id": "op016",
+            "name": "Mint",
+            "price": 199,
+            "description": "Fast-growing herb perfect for teas, cocktails and cooking.",
+            "image": "images/outdoor/croton.jpg",
+            "rating": 4.8,
+            "careLevel": "Easy",
+            "light": "Partial shade"
+          },
+          {
+            "id": "op017",
+            "name": "Aloe Vera (Outdoor)",
+            "price": 349,
+            "description": "Medicinal succulent that thrives in warm outdoor conditions.",
+            "image": "images/outdoor/Areca Palm.jpg",
+            "rating": 4.6,
+            "careLevel": "Easy",
+            "light": "Full sun"
+          },
+          {
+            "id": "op018",
+            "name": "Bamboo Plant",
+            "price": 499,
+            "description": "Fast-growing plant that creates privacy screens and adds zen appeal.",
+            "image": "images/outdoor/Bougainvillea.webp",
+            "rating": 4.5,
+            "careLevel": "Easy",
+            "light": "Partial shade"
+          },
+          {
+            "id": "op019",
+            "name": "Geranium",
+            "price": 299,
+            "description": "Colorful flowering plant that blooms repeatedly.",
+            "image": "images/outdoor/Marigold.jpg",
+            "rating": 4.4,
+            "careLevel": "Easy",
+            "light": "Full sun"
+          },
+          {
+            "id": "op020",
+            "name": "Ficus Benjamina",
+            "price": 799,
+            "description": "Graceful tree with drooping branches and glossy leaves.",
+            "image": "images/outdoor/Jade Plant.jpg",
+            "rating": 4.3,
+            "careLevel": "Moderate",
+            "light": "Full sun to partial shade"
+          }
+        ]
+      }
+      ,
+      {
+        "id": "seeds",
+        "name": "Seeds",
+        "products": [
+          {
+            "id": "sd001",
+            "name": "Tomato Seeds",
+            "price": 99,
+            "description": "High-yield tomato seeds for home gardens, produces juicy fruits.",
+            "image": "images/seeds/Tomatocopy.webp",
+            "rating": 4.6,
+            "careLevel": "Easy",
+            "light": "Full sun"
+          },
+          {
+            "id": "sd002",
+            "name": "Sunflower Seeds",
+            "price": 79,
+            "description": "Giant sunflower seeds that grow tall with large flower heads.",
+            "image": "images/seeds/Sunflower Seeds.webp",
+            "rating": 4.8,
+            "careLevel": "Easy",
+            "light": "Full sun"
+          },
+          {
+            "id": "sd003",
+            "name": "Basil Seeds",
+            "price": 69,
+            "description": "Organic basil seeds for growing fresh culinary herbs.",
+            "image": "images/seeds/BasilSeeds.webp",
+            "rating": 4.7,
+            "careLevel": "Easy",
+            "light": "Full sun"
+          },
+          {
+            "id": "sd004",
+            "name": "Chili Pepper Seeds",
+            "price": 89,
+            "description": "Spicy chili pepper seeds in mixed varieties.",
+            "image": "images/seeds/Chili Pepper Seeds.webp",
+            "rating": 4.5,
+            "careLevel": "Moderate",
+            "light": "Full sun"
+          },
+          {
+            "id": "sd005",
+            "name": "Marigold Seeds",
+            "price": 59,
+            "description": "Bright orange and yellow flowers that repel garden pests.",
+            "image": "images/seeds/Marigold Seeds.jpg",
+            "rating": 4.7,
+            "careLevel": "Very Easy",
+            "light": "Full sun"
+          },
+          {
+            "id": "sd006",
+            "name": "Coriander Seeds",
+            "price": 65,
+            "description": "Essential Indian herb seeds for fresh cilantro and coriander.",
+            "image": "images/seeds/Coriander Seeds.jpg",
+            "rating": 4.6,
+            "careLevel": "Easy",
+            "light": "Partial shade"
+          },
+          {
+            "id": "sd007",
+            "name": "Moringa Seeds",
+            "price": 119,
+            "description": "Miracle tree seeds packed with nutrients and fast-growing.",
+            "image": "images/seeds/Moringa Seeds.webp",
+            "rating": 4.5,
+            "careLevel": "Easy",
+            "light": "Full sun"
+          },
+          {
+            "id": "sd008",
+            "name": "Bitter Gourd Seeds",
+            "price": 85,
+            "description": "Traditional vegetable seeds with medicinal properties.",
+            "image": "images/seeds/Bitter Gourd Seeds.jpg",
+            "rating": 4.4,
+            "careLevel": "Moderate",
+            "light": "Full sun"
+          },
+          {
+            "id": "sd009",
+            "name": "Okra Seeds",
+            "price": 75,
+            "description": "High-yield okra seeds for home vegetable gardens.",
+            "image": "images/seeds/okraseeds.jpg",
+            "rating": 4.5,
+            "careLevel": "Easy",
+            "light": "Full sun"
+          },
+          {
+            "id": "sd010",
+            "name": "Spinach Seeds",
+            "price": 69,
+            "description": "Nutrient-rich spinach seeds for continuous harvest.",
+            "image": "images/seeds/Spinach Seeds.jpg",
+            "rating": 4.6,
+            "careLevel": "Easy",
+            "light": "Partial shade"
+          },
+          {
+            "id": "sd011",
+            "name": "Lemon Grass Seeds",
+            "price": 89,
+            "description": "Fragrant herb seeds perfect for teas and Asian cooking.",
+            "image": "images/seeds/Lemon Grass Seeds.jpg",
+            "rating": 4.4,
+            "careLevel": "Easy",
+            "light": "Full sun"
+          },
+          {
+            "id": "sd012",
+            "name": "Jasmine Seeds",
+            "price": 109,
+            "description": "Fragrant flowering vine seeds for trellises and fences.",
+            "image": "images/seeds/Jasmine Seeds.jpg",
+            "rating": 4.3,
+            "careLevel": "Moderate",
+            "light": "Full sun"
+          },
+          {
+            "id": "sd013",
+            "name": "Rose Seeds",
+            "price": 129,
+            "description": "Mixed color rose seeds for beautiful garden flowers.",
+            "image": "images/seeds/Rose Seeds.webp",
+            "rating": 4.2,
+            "careLevel": "Moderate",
+            "light": "Full sun"
+          },
+          {
+            "id": "sd014",
+            "name": "Holy Basil Seeds",
+            "price": 79,
+            "description": "Sacred Tulsi seeds with medicinal and spiritual significance.",
+            "image": "images/seeds/Holy Basil Seeds.jpg",
+            "rating": 4.7,
+            "careLevel": "Easy",
+            "light": "Full sun"
+          },
+          {
+            "id": "sd015",
+            "name": "Mint Seeds",
+            "price": 65,
+            "description": "Refreshing mint seeds for teas, drinks and cooking.",
+            "image": "images/seeds/Mint Seeds.webp",
+            "rating": 4.6,
+            "careLevel": "Easy",
+            "light": "Partial shade"
+          },
+          {
+            "id": "sd016",
+            "name": "Carrot Seeds",
+            "price": 59,
+            "description": "Sweet carrot seeds for home vegetable patches.",
+            "image": "images/seeds/Carrot.webp",
+            "rating": 4.5,
+            "careLevel": "Easy",
+            "light": "Full sun"
+          },
+          {
+            "id": "sd017",
+            "name": "Cucumber Seeds",
+            "price": 75,
+            "description": "High-yield cucumber seeds for fresh summer salads.",
+            "image": "images/seeds/Cucumber Seeds.jpg",
+            "rating": 4.6,
+            "careLevel": "Easy",
+            "light": "Full sun"
+          },
+          {
+            "id": "sd018",
+            "name": "Brinjal Seeds",
+            "price": 69,
+            "description": "Traditional Indian eggplant/aubergine seeds.",
+            "image": "images/seeds/Brinjal Seeds.webp",
+            "rating": 4.4,
+            "careLevel": "Easy",
+            "light": "Full sun"
+          },
+          {
+            "id": "sd019",
+            "name": "Watermelon Seeds",
+            "price": 89,
+            "description": "Sweet watermelon seeds for summer fruit harvest.",
+            "image": "images/seeds/Watermelon Seeds.webp",
+            "rating": 4.5,
+            "careLevel": "Moderate",
+            "light": "Full sun"
+          },
+          {
+            "id": "sd020",
+            "name": "Pumpkin Seeds",
+            "price": 79,
+            "description": "Large pumpkin seeds for seasonal harvests.",
+            "image": "images/seeds/Pumpkin Seeds.webp",
+            "rating": 4.4,
+            "careLevel": "Easy",
+            "light": "Full sun"
+          }
+        ]
+      },
+      {
+        "id": "planters",
+        "name": "Planters",
+        "products": [
+          {
+            "id": "pl001",
+            "name": "Ceramic Planter (Small)",
+            "price": 349,
+            "description": "Handcrafted ceramic planter with drainage hole, 6 inch diameter.",
+            "image": "images/planters/ceramic.jpg",
+            "rating": 4.5,
+            "material": "Ceramic",
+            "size": "6 inch"
+          },
+          {
+            "id": "pl002",
+            "name": "Ceramic Planter (Medium)",
+            "price": 499,
+            "description": "Beautiful ceramic planter with glaze finish, 8 inch diameter.",
+            "image": "images/planters/ceramic.jpg",
+            "rating": 4.6,
+            "material": "Ceramic",
+            "size": "8 inch"
+          },
+          {
+            "id": "pl003",
+            "name": "Ceramic Planter (Large)",
+            "price": 699,
+            "description": "Elegant large ceramic planter, 12 inch diameter.",
+            "image": "images/planters/ceramic.jpg",
+            "rating": 4.4,
+            "material": "Ceramic",
+            "size": "12 inch"
+          },
+          {
+            "id": "pl004",
+            "name": "Terracotta Pot (Small)",
+            "price": 199,
+            "description": "Classic terracotta pot with natural finish, 5 inch diameter.",
+            "image": "images/planters/Terracotta Pot.jpg",
+            "rating": 4.7,
+            "material": "Terracotta",
+            "size": "5 inch"
+          },
+          {
+            "id": "pl005",
+            "name": "Terracotta Pot (Medium)",
+            "price": 299,
+            "description": "Traditional terracotta pot, 8 inch diameter.",
+            "image": "images/planters/Terracotta Pot.jpg",
+            "rating": 4.7,
+            "material": "Terracotta",
+            "size": "8 inch"
+          },
+          {
+            "id": "pl006",
+            "name": "Terracotta Pot (Large)",
+            "price": 399,
+            "description": "Large terracotta pot for mature plants, 12 inch diameter.",
+            "image": "images/planters/Terracotta Pot.jpg",
+            "rating": 4.6,
+            "material": "Terracotta",
+            "size": "12 inch"
+          },
+          {
+            "id": "pl007",
+            "name": "Hanging Planter Set",
+            "price": 599,
+            "description": "Set of 3 macrame hanging planters with ceramic pots.",
+            "image": "images/planters/Hanging Planter Set.jpg",
+            "rating": 4.8,
+            "material": "Macrame + Ceramic",
+            "size": "5-6 inch"
+          },
+          {
+            "id": "pl008",
+            "name": "Self-Watering Planter",
+            "price": 799,
+            "description": "Modern self-watering planter with reservoir system.",
+            "image": "images/planters/Self-Watering Planter.jpg",
+            "rating": 4.5,
+            "material": "Plastic",
+            "size": "10 inch"
+          },
+          {
+            "id": "pl009",
+            "name": "Concrete Planter",
+            "price": 899,
+            "description": "Minimalist concrete planter with geometric design.",
+            "image": "images/planters/Concrete Planter.jpg",
+            "rating": 4.4,
+            "material": "Concrete",
+            "size": "8 inch"
+          },
+          {
+            "id": "pl010",
+            "name": "Wooden Planter Box",
+            "price": 1299,
+            "description": "Rustic wooden planter box for indoor or patio use.",
+            "image": "images/planters/Wooden Planter Box.jpg",
+            "rating": 4.6,
+            "material": "Teak Wood",
+            "size": "24x8x8 inch"
+          },
+          {
+            "id": "pl011",
+            "name": "Metal Planter (Brass)",
+            "price": 1099,
+            "description": "Elegant brass metal planter with hammered finish.",
+            "image": "images/planters/Metal Planter (Brass).webp",
+            "rating": 4.5,
+            "material": "Brass",
+            "size": "7 inch"
+          },
+          {
+            "id": "pl012",
+            "name": "Glass Terrarium",
+            "price": 849,
+            "description": "Geometric glass terrarium for succulents and air plants.",
+            "image": "images/planters/Glass Terrarium.jpg",
+            "rating": 4.7,
+            "material": "Glass",
+            "size": "10x6x6 inch"
+          },
+          {
+            "id": "pl013",
+            "name": "Wall Mounted Planter",
+            "price": 699,
+            "description": "Modern wall mounted planter for vertical gardens.",
+            "image": "images/planters/Wall Mounted Planter.jpg",
+            "rating": 4.3,
+            "material": "Metal + Ceramic",
+            "size": "6 inch"
+          },
+          {
+            "id": "pl014",
+            "name": "Planter Stand Set",
+            "price": 1499,
+            "description": "Set of 3 planters with wooden stand for tiered display.",
+            "image": "images/planters/Planter Stand Set.jpg",
+            "rating": 4.6,
+            "material": "Ceramic + Wood",
+            "size": "6-8-10 inch"
+          },
+          {
+            "id": "pl015",
+            "name": "Bamboo Planter",
+            "price": 499,
+            "description": "Eco-friendly bamboo planter with natural finish.",
+            "image": "plant.jpg",
+            "rating": 4.5,
+            "material": "Bamboo",
+            "size": "8 inch"
+          },
+          {
+            "id": "pl016",
+            "name": "Decorative Pot with Saucer",
+            "price": 449,
+            "description": "Colorful decorative pot with matching saucer.",
+            "image": "images/planters/Decorative Pot with Saucer.jpg",
+            "rating": 4.4,
+            "material": "Ceramic",
+            "size": "7 inch"
+          },
+          {
+            "id": "pl017",
+            "name": "Planter with Drainage Tray",
+            "price": 399,
+            "description": "Practical planter with built-in drainage tray.",
+            "image": "images/planters/Planter with Drainage Tray.webp",
+            "rating": 4.7,
+            "material": "Plastic",
+            "size": "9 inch"
+          },
+          {
+            "id": "pl018",
+            "name": "Vintage Style Planter",
+            "price": 599,
+            "description": "Vintage-inspired planter with distressed finish.",
+            "image": "images/planters/Vintage Style Planter.jpg",
+            "rating": 4.5,
+            "material": "Ceramic",
+            "size": "8 inch"
+          },
+          {
+            "id": "pl019",
+            "name": "Modern Fiberglass Planter",
+            "price": 1299,
+            "description": "Sleek fiberglass planter for contemporary spaces.",
+            "image": "images/planters/Modern Fiberglass Planter.jpg",
+            "rating": 4.4,
+            "material": "Fiberglass",
+            "size": "14 inch"
+          },
+          {
+            "id": "pl020",
+            "name": "Herb Garden Planter Set",
+            "price": 899,
+            "description": "Set of 5 small planters perfect for kitchen herbs.",
+            "image": "images/planters/Herb Garden Planter Set.jpg",
+            "rating": 4.8,
+            "material": "Ceramic",
+            "size": "4 inch each"
+          }
+        ]
+      },
+      {
+        "id": "gardening-tools",
+        "name": "Gardening Tools",
+        "products": [
+          {
+            "id": "gt001",
+            "name": "Gardening Tool Set",
+            "price": 899,
+            "description": "6-piece stainless steel gardening tool set with storage bag.",
+            "image": "images/tools/Toolset.jpg",
+            "rating": 4.7,
+            "material": "Stainless Steel"
+          },
+          {
+            "id": "gt002",
+            "name": "Pruning Shears",
+            "price": 499,
+            "description": "Professional grade pruning shears for precise cutting.",
+            "image": "images/tools/Pruning Shears.jpg",
+            "rating": 4.6,
+            "material": "Carbon Steel"
+          },
+          {
+            "id": "gt003",
+            "name": "Watering Can",
+            "price": 399,
+            "description": "Galvanized steel watering can with 2L capacity.",
+            "image": "images/tools/Watering Can.jpg",
+            "rating": 4.5,
+            "material": "Galvanized Steel"
+          },
+          {
+            "id": "gt004",
+            "name": "Garden Gloves",
+            "price": 249,
+            "description": "Durable gardening gloves with reinforced fingertips.",
+            "image": "images/tools/Garden Gloves.webp",
+            "rating": 4.8,
+            "material": "Rubber + Fabric"
+          },
+          {
+            "id": "gt005",
+            "name": "Hand Trowel",
+            "price": 199,
+            "description": "Ergonomic hand trowel for planting and transplanting.",
+            "image": "images/tools/Hand Trowel.jpg",
+            "rating": 4.7,
+            "material": "Stainless Steel"
+          },
+          {
+            "id": "gt006",
+            "name": "Garden Fork",
+            "price": 349,
+            "description": "Sturdy garden fork for turning soil and compost.",
+            "image": "images/tools/Garden Fork.jpg",
+            "rating": 4.6,
+            "material": "Carbon Steel"
+          },
+          {
+            "id": "gt007",
+            "name": "Spray Bottle",
+            "price": 149,
+            "description": "500ml spray bottle for misting plants and applying treatments.",
+            "image": "images/tools/Spray Bottle.webp",
+            "rating": 4.5,
+            "material": "Plastic"
+          },
+          {
+            "id": "gt008",
+            "name": "Soil Moisture Meter",
+            "price": 299,
+            "description": "Digital soil moisture meter for perfect watering.",
+            "image": "images/tools/Soil Moisture Meter.jpg",
+            "rating": 4.4,
+            "material": "Plastic + Metal"
+          },
+          {
+            "id": "gt009",
+            "name": "Plant Mister",
+            "price": 179,
+            "description": "Fine mist sprayer for tropical plants and propagation.",
+            "image": "images/tools/Plant Mister.jpg",
+            "rating": 4.6,
+            "material": "Plastic"
+          },
+          {
+            "id": "gt010",
+            "name": "Garden Kneeler",
+            "price": 599,
+            "description": "Padded kneeler seat that converts to a stool.",
+            "image": "images/tools/Garden Kneeler.webp",
+            "rating": 4.7,
+            "material": "Foam + Fabric"
+          },
+          {
+            "id": "gt011",
+            "name": "Hori Hori Knife",
+            "price": 449,
+            "description": "Japanese gardening knife for digging and cutting.",
+            "image": "images/tools/Hori Hori Knife.jpg",
+            "rating": 4.8,
+            "material": "Stainless Steel"
+          },
+          {
+            "id": "gt012",
+            "name": "Garden Scissors",
+            "price": 279,
+            "description": "Precision garden scissors for delicate pruning.",
+            "image": "images/tools/Garden Scissors.jpg",
+            "rating": 4.6,
+            "material": "Stainless Steel"
+          },
+          {
+            "id": "gt013",
+            "name": "Weeder Tool",
+            "price": 229,
+            "description": "Long-handled weeder for removing deep-rooted weeds.",
+            "image": "images/tools/Weeder Tool.jpg",
+            "rating": 4.5,
+            "material": "Stainless Steel"
+          },
+          {
+            "id": "gt014",
+            "name": "Soil Scoop",
+            "price": 199,
+            "description": "Large soil scoop for potting and transplanting.",
+            "image": "images/tools/Soil Scoop.jpg",
+            "rating": 4.7,
+            "material": "Plastic"
+          },
+          {
+            "id": "gt015",
+            "name": "Garden Apron",
+            "price": 349,
+            "description": "Heavy-duty garden apron with multiple pockets.",
+            "image": "images/tools/Garden Apron.webp",
+            "rating": 4.5,
+            "material": "Canvas"
+          },
+          {
+            "id": "gt016",
+            "name": "Plant Labels",
+            "price": 129,
+            "description": "Set of 50 wooden plant labels for seed starting.",
+            "image": "images/tools/Plant Labels.jpg",
+            "rating": 4.6,
+            "material": "Wood"
+          },
+          {
+            "id": "gt017",
+            "name": "Garden Twine",
+            "price": 99,
+            "description": "Natural jute twine for plant support and tying.",
+            "image": "images/tools/Garden Twine.jpg",
+            "rating": 4.7,
+            "material": "Jute"
+          },
+          {
+            "id": "gt018",
+            "name": "Seed Sprouter",
+            "price": 399,
+            "description": "3-tier seed sprouter for growing microgreens.",
+            "image": "images/tools/Seed Sprouter.jpg",
+            "rating": 4.5,
+            "material": "Plastic"
+          },
+          {
+            "id": "gt019",
+            "name": "Garden Cart",
+            "price": 2499,
+            "description": "Heavy-duty garden cart for transporting plants and supplies.",
+            "image": "images/tools/Garden Cart.jpg",
+            "rating": 4.6,
+            "material": "Metal + Fabric"
+          },
+          {
+            "id": "gt020",
+            "name": "Plant Propagation Kit",
+            "price": 599,
+            "description": "Complete kit for propagating plants from cuttings.",
+            "image": "images/tools/Plant Propagation Kit.webp",
+            "rating": 4.7,
+            "material": "Plastic + Peat"
+          }
+        ]
+      }
+    ]
+  }
